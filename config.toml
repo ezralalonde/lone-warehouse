@@ -1,0 +1,14 @@
+baseurl = "http://test.example.com"
+theme = "ballin-avenger"
+languageCode = "en-us"
+title = "Business Casual"
+[params]
+  section-order = ["home", "about", "blog", "contact"]
+  header.address-bar = "3481 Melrose Place | Beverly Hills, CA 90210 | 123.456.7890"
+  footer.copyright = "Copyright © Your Website 2014"
+  blog.lead = "Company"
+  blog.title = "Blog"
+  blog.previous = "Older"
+  blog.next = "Newer"
+  date.format =  "January 2, 2006"
+
